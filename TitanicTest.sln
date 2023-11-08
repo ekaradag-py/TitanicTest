@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TitanicTest", "TitanicTest\TitanicTest.pyproj", "{6DBF116E-0E1D-4B2E-B2E8-948FE6556188}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collage", "Collage\Collage.pyproj", "{4698AED8-56EF-4AB0-B56C-E230618D5431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBF116E-0E1D-4B2E-B2E8-948FE6556188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBF116E-0E1D-4B2E-B2E8-948FE6556188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4698AED8-56EF-4AB0-B56C-E230618D5431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4698AED8-56EF-4AB0-B56C-E230618D5431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AFD1B0E-AD23-456F-B941-A658468FEFF7}
+	EndGlobalSection
+EndGlobal
