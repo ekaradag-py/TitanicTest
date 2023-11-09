@@ -16,6 +16,7 @@ y = data["Survived"]
 
 # X['Age'].fillna(X['Age'].mean(), inplace=True)
 
+#ortanca değeri bulma
 data["Fare"].fillna(data["Fare"].median(), inplace=True)
 
 age_means = data.groupby("Sex")["Age"].mean()
