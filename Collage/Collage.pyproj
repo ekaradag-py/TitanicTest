@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4698aed8-56ef-4ab0-b56c-e230618d5431</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Collage.py</StartupFile>
+    <StartupFile>Boston.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Boston.py" />
     <Compile Include="Collage.py" />
   </ItemGroup>
   <ItemGroup>
@@ -40,6 +41,7 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Boston.csv" />
     <Content Include="College.csv" />
     <Content Include="CollegeReg.py" />
     <Content Include="College_Parametreler.txt" />
