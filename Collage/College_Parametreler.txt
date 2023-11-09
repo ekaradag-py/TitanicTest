@@ -1,0 +1,18 @@
+Private: Kamu/özel göstergesi
+Apps: Alınan başvuru sayısı
+Accept: Kabul edilen başvuru sahiplerinin sayısı
+Enroll: Kayıt yaptıran yeni öğrenci sayısı
+Top10perc: Lise sınıfının en üst %10'undan gelen yeni öğrencilerin yüzdesi
+Top25perc: Lise sınıfının en üst %25'inden gelen yeni öğrencilerin yüzdesi
+F.Undergrad: Tam zamanlı lisans öğrencisi sayısı
+P.Undergrad: Yarı zamanlı lisans öğrencisi sayısı
+Outstate: Eyalet dışından gelen öğrencilerin harç ücreti
+Room.Board: Yurt ve yemek masrafları
+Books: Tahmini kitap masrafları
+Personal: Tahmini kişisel harcamalar
+PhD: Doktora derecesine sahip öğretim üyelerinin yüzdesi
+Terminal: Son derece sahip öğretim üyelerinin yüzdesi
+S.F.Ratio: Öğrenci/fakülte oranı
+perc.alumni: Bağış yapan mezunların yüzdesi
+Expend: Öğrenci başına düşen eğitim harcaması
+Grad.Rate: Mezuniyet oranı
